@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+    body {
+        @apply font-sans text-neutral-800 antialiased;
+    }
+}
+
+@layer components {
+    .btn-primary {
+        @apply inline-flex items-center justify-center gap-2 bg-bordeaux-500 hover:bg-bordeaux-700 text-white font-semibold px-6 py-3 rounded-sm transition-colors duration-200;
+    }
+    .btn-outline {
+        @apply inline-flex items-center justify-center gap-2 border border-navy-700 text-navy-700 hover:bg-cream-50 font-semibold px-6 py-3 rounded-sm transition-colors duration-200;
+    }
+    .section-label {
+        @apply text-navy-500 font-semibold tracking-widest uppercase text-xs;
+    }
+}
