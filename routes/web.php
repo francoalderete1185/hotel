@@ -44,3 +44,6 @@ Route::prefix('admin')->name('admin.')->group(function () {
         Route::put('configuracion',  [AdminSettingController::class, 'update'])->name('configuracion.update');
     });
 });
+
+Route::view('/terminos', 'legal.terminos')->name('legal.terminos');
+Route::view('/privacidad', 'legal.privacidad')->name('legal.privacidad');

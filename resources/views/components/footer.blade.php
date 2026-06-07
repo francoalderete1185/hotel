@@ -63,8 +63,8 @@
             <div>
                 <h4 class="text-white font-semibold text-sm uppercase tracking-wider mb-5">Legal</h4>
                 <ul class="space-y-3 text-sm">
-                    <li><a href="#" class="hover:text-cream-100 transition-colors">Términos y condiciones</a></li>
-                    <li><a href="#" class="hover:text-cream-100 transition-colors">Política de privacidad</a></li>
+                    <li><a href="{{ route('legal.terminos') }}" class="hover:text-cream-100 transition-colors">Términos y condiciones</a></li>
+                    <li><a href="{{ route('legal.privacidad') }}" class="hover:text-cream-100 transition-colors">Política de privacidad</a></li>
                 </ul>
             </div>
         </div>
