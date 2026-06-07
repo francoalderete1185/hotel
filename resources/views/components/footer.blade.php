@@ -18,7 +18,7 @@
                     </li>
                     <li class="flex items-center gap-2.5">
                         <i class="ti ti-phone text-navy-500 shrink-0"></i>
-                        <a href="tel:+541143713789" class="hover:text-cream-100 transition-colors">+54 11 4371-3789</a>
+                        <a href="tel:+5491176759957" class="hover:text-cream-100 transition-colors">11 7675-9957</a>
                     </li>
                     <li class="flex items-center gap-2.5">
                         <i class="ti ti-mail text-navy-500 shrink-0"></i>

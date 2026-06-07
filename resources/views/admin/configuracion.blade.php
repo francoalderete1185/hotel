@@ -20,14 +20,14 @@
                         type="text"
                         name="whatsapp_number"
                         value="{{ old('whatsapp_number', $whatsapp) }}"
-                        placeholder="5491143713789"
+                        placeholder="5491176759957"
                         class="w-full border border-neutral-200 rounded-sm px-3 py-2.5 text-sm focus:outline-none focus:border-navy-500 focus:ring-1 focus:ring-navy-500"
                     >
                     @error('whatsapp_number')
                         <p class="text-red-500 text-xs">{{ $message }}</p>
                     @enderror
                     <p class="text-xs text-neutral-400 leading-relaxed">
-                        Solo dígitos con código de país. Ej: 5491143713789
+                        Solo dígitos con código de país. Ej: 5491176759957
                     </p>
                 </div>
 

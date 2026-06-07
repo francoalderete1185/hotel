@@ -51,7 +51,7 @@
                             <span>
                                 Las solicitudes de cancelación deben comunicarse por escrito a
                                 <a href="mailto:reservas@hotelparlamento.com.ar" class="text-navy-500 hover:text-navy-700 underline">reservas@hotelparlamento.com.ar</a>
-                                o por teléfono al +54 11 4371-3789. La hora de recepción del aviso determina si
+                                o por teléfono al 11 7675-9957. La hora de recepción del aviso determina si
                                 corresponde o no el cargo.
                             </span>
                         </li>
@@ -145,7 +145,7 @@
                     <p class="text-neutral-600">
                         Para consultas sobre estos Términos y Condiciones, podés contactarnos en
                         <a href="mailto:reservas@hotelparlamento.com.ar" class="text-navy-500 hover:text-navy-700 underline">reservas@hotelparlamento.com.ar</a>
-                        o llamarnos al +54 11 4371-3789.
+                        o llamarnos al 11 7675-9957.
                     </p>
                 </div>
 

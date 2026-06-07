@@ -216,7 +216,7 @@
                         <li><strong>Email:</strong>
                             <a href="mailto:reservas@hotelparlamento.com.ar" class="text-navy-500 hover:text-navy-700 underline">reservas@hotelparlamento.com.ar</a>
                         </li>
-                        <li><strong>Teléfono:</strong> +54 11 4371-3789</li>
+                        <li><strong>Teléfono:</strong> 11 7675-9957</li>
                     </ul>
                 </div>
 
